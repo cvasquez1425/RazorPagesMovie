@@ -1,0 +1,9 @@
+C:\Users\CarlosB\Source\Repos\RazorPagesMovie\RazorPagesMovie.Entities\bin\Debug\netcoreapp2.0\RazorPagesMovie.Entities.deps.json
+C:\Users\CarlosB\Source\Repos\RazorPagesMovie\RazorPagesMovie.Entities\bin\Debug\netcoreapp2.0\RazorPagesMovie.Entities.dll
+C:\Users\CarlosB\Source\Repos\RazorPagesMovie\RazorPagesMovie.Entities\bin\Debug\netcoreapp2.0\RazorPagesMovie.Entities.pdb
+C:\Users\CarlosB\Source\Repos\RazorPagesMovie\RazorPagesMovie.Entities\obj\Debug\netcoreapp2.0\RazorPagesMovie.Entities.csprojResolveAssemblyReference.cache
+C:\Users\CarlosB\Source\Repos\RazorPagesMovie\RazorPagesMovie.Entities\obj\Debug\netcoreapp2.0\RazorPagesMovie.Entities.csproj.CoreCompileInputs.cache
+C:\Users\CarlosB\Source\Repos\RazorPagesMovie\RazorPagesMovie.Entities\obj\Debug\netcoreapp2.0\RazorPagesMovie.Entities.AssemblyInfoInputs.cache
+C:\Users\CarlosB\Source\Repos\RazorPagesMovie\RazorPagesMovie.Entities\obj\Debug\netcoreapp2.0\RazorPagesMovie.Entities.AssemblyInfo.cs
+C:\Users\CarlosB\Source\Repos\RazorPagesMovie\RazorPagesMovie.Entities\obj\Debug\netcoreapp2.0\RazorPagesMovie.Entities.dll
+C:\Users\CarlosB\Source\Repos\RazorPagesMovie\RazorPagesMovie.Entities\obj\Debug\netcoreapp2.0\RazorPagesMovie.Entities.pdb
